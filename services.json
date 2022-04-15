@@ -1,12 +1,5 @@
 [
     {
-        "id": 0,
-        "name": "Empty",
-        "price": "Empty",
-        "description": "Empty",
-        "img": "empty"
-    },
-    {
         "id": 1,
         "name": "ENGINE DIAGNOSTIC",
         "price": "300",
